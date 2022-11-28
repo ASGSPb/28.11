@@ -1,0 +1,15 @@
+D:\0. IT\GB\C#\Seminar\28.11\Task01\bin\Debug\net6.0\Task01.exe
+D:\0. IT\GB\C#\Seminar\28.11\Task01\bin\Debug\net6.0\Task01.deps.json
+D:\0. IT\GB\C#\Seminar\28.11\Task01\bin\Debug\net6.0\Task01.runtimeconfig.json
+D:\0. IT\GB\C#\Seminar\28.11\Task01\bin\Debug\net6.0\Task01.dll
+D:\0. IT\GB\C#\Seminar\28.11\Task01\bin\Debug\net6.0\Task01.pdb
+D:\0. IT\GB\C#\Seminar\28.11\Task01\obj\Debug\net6.0\Task01.csproj.AssemblyReference.cache
+D:\0. IT\GB\C#\Seminar\28.11\Task01\obj\Debug\net6.0\Task01.GeneratedMSBuildEditorConfig.editorconfig
+D:\0. IT\GB\C#\Seminar\28.11\Task01\obj\Debug\net6.0\Task01.AssemblyInfoInputs.cache
+D:\0. IT\GB\C#\Seminar\28.11\Task01\obj\Debug\net6.0\Task01.AssemblyInfo.cs
+D:\0. IT\GB\C#\Seminar\28.11\Task01\obj\Debug\net6.0\Task01.csproj.CoreCompileInputs.cache
+D:\0. IT\GB\C#\Seminar\28.11\Task01\obj\Debug\net6.0\Task01.dll
+D:\0. IT\GB\C#\Seminar\28.11\Task01\obj\Debug\net6.0\refint\Task01.dll
+D:\0. IT\GB\C#\Seminar\28.11\Task01\obj\Debug\net6.0\Task01.pdb
+D:\0. IT\GB\C#\Seminar\28.11\Task01\obj\Debug\net6.0\Task01.genruntimeconfig.cache
+D:\0. IT\GB\C#\Seminar\28.11\Task01\obj\Debug\net6.0\ref\Task01.dll

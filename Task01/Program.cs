@@ -1,4 +1,4 @@
-﻿// Пользователь вводит с клавиатуры M чисел. 
+﻿// Пользователь вводит с клавиатуры M чисел.
 // Посчитайте, сколько чисел больше 0 ввёл пользователь.
 // 0, 7, 8, -2, -2 -> 2
 // 1, -7, 567, 89, 223-> 3
@@ -12,12 +12,12 @@ while (b == true)
 
     int n = Convert.ToInt32(Console.ReadLine());
 
-    if ( n == 1)
+    if (n == 1)
     {
-    Console.Write("Введите число: ");
-    int m = Convert.ToInt32(Console.ReadLine());
-    b = true;
-        if ( m > 0)
+        Console.Write("Введите число: ");
+        int m = Convert.ToInt32(Console.ReadLine());
+        b = true;
+        if (m > 0)
         {
             totalNegativeNumbers = totalNegativeNumbers + 1;
         }
